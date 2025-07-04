@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ryan and I'm a student, from RIT.</p>
+<p align="left">My name is Ryan and I'm a student, from RIT and an Intern at <a href="https://slide.tech">Slide</a></p>
 
 ###
 
