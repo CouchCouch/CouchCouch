@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since IDK<br>📚 I'm currently learning a lot<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since IDK<br>📚 I'm currently learning so much<br>🎯 Goals: Make cool and useful stuff<br>🎲 Fun fact: I have used Linux in some capacity since I was like 10 or 11 when I bouoght myself a Raspberry Pi</p>
 
 ###
 
